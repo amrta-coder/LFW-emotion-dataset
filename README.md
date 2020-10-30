@@ -62,7 +62,7 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo YANG(bo-yang@kddi-research.jp)
 
 
 ## License
-**The usage of LFW emotion dataset (both LFW-FER and M-LFW-FER) for academic/non-commercial purpose is permitted.**
+**Only the usage of LFW emotion dataset (both LFW-FER and M-LFW-FER) for academic/non-commercial purpose is permitted.**
 
 
 ## LFW emotion dataset used in following works
