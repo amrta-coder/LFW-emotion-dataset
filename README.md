@@ -51,7 +51,8 @@ As LFW is a base work, you are also recommended to cite the following:
   institution = {University of Massachusetts, Amherst},
   year = {2007},
   number = {07-49},
-  month = {October}}
+  month = {October}
+}
 ```
 
 ## Contact
