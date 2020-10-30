@@ -32,7 +32,7 @@ If you want to use LFW-FER or M-LFW-FER dataset in your study, please cite as:
 
 ```BibTeX
 @inproceedings{M-LFW-FER,
-  author = {Yang, Bi and Wu, Jianming and Hattori, Gen},
+  author = {Yang, Bo and Wu, Jianming and Hattori, Gen},
   title = {Facial Expression Recognition with the advent of human beings all behind face masks},
   year = {2020},
   publisher = {Association for Computing Machinery},
