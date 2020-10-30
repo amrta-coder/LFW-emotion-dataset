@@ -32,12 +32,12 @@ If you want to use LFW-FER or M-LFW-FER dataset in your study, please cite as:
 
 ```BibTeX
 @inproceedings{LFW-FE,
-author = {Yang, Bi and Wu, Jianming and Hattori, Gen},
-title = {Facial Expression Recognition with the advent of human beings all behind face masks},
-year = {2020},
-publisher = {Association for Computing Machinery},
-address = {Essen, Germany},
-series = {MUM2020}
+  author = {Yang, Bi and Wu, Jianming and Hattori, Gen},
+  title = {Facial Expression Recognition with the advent of human beings all behind face masks},
+  year = {2020},
+  publisher = {Association for Computing Machinery},
+  address = {Essen, Germany},
+  series = {MUM2020}
 }
 ```
 
@@ -49,7 +49,7 @@ As LFW is a base work, you are also recommended to cite the following:
   author = {Gary B. Huang and Manu Ramesh and Tamara Berg and Erik Learned-Miller},
   title = {Labeled Faces in the Wild: A Database for Studying Face Recognition in Unconstrained Environments},
   institution = {University of Massachusetts, Amherst},
-  year = 2007,
+  year = {2007},
   number = {07-49},
   month = {October}}
 ```
