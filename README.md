@@ -31,7 +31,7 @@ LFW-FER denotes LFW dataset processed by automatic wearing face mask method for 
 If you want to use LFW-FER or M-LFW-FER dataset in your study, please cite as:
 
 ```BibTeX
-@inproceedings{M-LFW-FER,
+@inproceedings{LFW-emotion,
   author = {Yang, Bo and Wu, Jianming and Hattori, Gen},
   title = {Facial Expression Recognition with the advent of human beings all behind face masks},
   year = {2020},
@@ -59,7 +59,7 @@ As LFW is a base work, you are also recommended to cite the following:
 
 Questions and comments can be sent to:
 
-Jianming Wu(ji-wu@kddi-research.jp) or Bo YANG(bo-yang@kddi-research.jp)
+Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 
 
 ## License
