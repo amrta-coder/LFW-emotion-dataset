@@ -23,7 +23,7 @@ Some pictures, difficult to distinguish expression, are removed and 10487 out of
 
 LFW-FER denotes LFW dataset processed by automatic wearing face mask method for masked facial expression recoginition study.
 
-<div align="center"><img src="./M-LFW-FER-sample.png" width="480px"></div>
+<div align="center"><img src="./M-LFW-FER.png" width="480px"></div>
 
 
 ## Citations
