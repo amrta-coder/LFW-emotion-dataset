@@ -8,6 +8,10 @@ This dataset consists of two parts and can be used for the following study:
 * **M-LFW_FER:**  LFW dataset processed by automatic wearing face mask method for masked facial expression recoginition study.
 
 
+## License
+**Only the usage of LFW emotion dataset (both LFW-FER and M-LFW-FER) for academic/non-commercial purpose is permitted.**
+
+
 ## LFW-FER dataset
 
 LFW-FER denotes LFW dataset annoteted for facial expression recoginition study.
@@ -62,10 +66,6 @@ Questions and comments can be sent to:
 Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 
 
-## License
-**Only the usage of LFW emotion dataset (both LFW-FER and M-LFW-FER) for academic/non-commercial purpose is permitted.**
-
-
-### LFW emotion dataset used in following works
+### LFW emotion dataset is also used in the following works
 
 
