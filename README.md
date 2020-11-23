@@ -44,6 +44,7 @@ If you want to use LFW-FER or M-LFW-FER dataset in your study, please cite as:
   series = {MUM2020}
 }
 ```
+You can find the paper from: https://dl.acm.org/doi/10.1145/3428361.3432075
 
 As LFW is a base work, you are also recommended to cite the following:
 
