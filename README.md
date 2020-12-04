@@ -1,5 +1,7 @@
 # LFW emotion dataset
 
+The related paper can be found from here: [Facial Expression Recognition with the advent of face masks](https://www.researchgate.net/publication/346519054_Facial_Expression_Recognition_with_the_advent_of_face_masks)
+
 LFW emotion dataset is annotated based on [LFW](http://vis-www.cs.umass.edu/lfw/) (Labeled Faces in the Wild).
 
 This dataset consists of two parts and can be used for the following study:
