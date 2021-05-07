@@ -4,6 +4,8 @@ The dataset download link: [LFW-emotion-dataset](https://drive.google.com/file/d
 
 The related paper can be found from here: [Facial Expression Recognition with the advent of face masks](https://www.researchgate.net/publication/346519054_Facial_Expression_Recognition_with_the_advent_of_face_masks)
 
+The presentation video can be found from here: [Facial Expression Recognition with the advent of face masks - MUM2020 presentation](https://www.youtube.com/watch?v=sWHEfynf5jA)
+
 LFW emotion dataset is annotated based on [LFW](http://vis-www.cs.umass.edu/lfw/) (Labeled Faces in the Wild).
 
 This dataset consists of two parts and can be used for the following study:
