@@ -76,7 +76,7 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 ### LFW emotion dataset is also used in the following works
 
 ```
-@INPROCEEDINGS{9506047,
+@Inproceedings{masked-FER,
   author={Yang, Bo and Jianming, Wu and Hattori, Gen},
   booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, 
   title={Face Mask Aware Robust Facial Expression Recognition During The Covid-19 Pandemic}, 
@@ -84,5 +84,6 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
   volume={},
   number={},
   pages={240-244},
-  doi={10.1109/ICIP42928.2021.9506047}}
+  doi={10.1109/ICIP42928.2021.9506047}
+}
 ```
