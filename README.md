@@ -72,6 +72,7 @@ Questions and comments can be sent to:
 
 Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 
+## Related works
 
 ### LFW emotion dataset is also used in the following works
 
