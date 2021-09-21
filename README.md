@@ -90,3 +90,16 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
   doi = {10.1109/ICIP42928.2021.9506047}
 }
 ```
+
+2. [Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask](https://www.researchgate.net/publication/349549226_Occlusion_aware_Facial_Landmark_Detection_based_Facial_Expression_Recognition_with_Face_Mask)
+
+```BibTeX
+@Techreport{FLD-FER-masked,
+   author	 = "Bo, Yang and Jianming, Wu and Gen, Hattori",
+   title	 = "Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask",
+   year 	 = "2021",
+   institution	 = "KDDI Research, Inc.",
+   number	 = "4",
+   month	 = "feb"
+}
+```
