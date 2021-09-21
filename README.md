@@ -95,11 +95,11 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 
 ```BibTeX
 @Techreport{FLD-FER-masked,
-   author	     = {Bo, Yang and Jianming, Wu and Gen, Hattori},
-   title	     = {Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask},
-   year 	     = {2021},
-   institution = {KDDI Research, Inc.},
-   number	     = {4},
-   month	     = {feb}
+   author	      = {Bo, Yang and Jianming, Wu and Gen, Hattori},
+   title	      = {Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask},
+   year 	      = {2021},
+   institution  = {KDDI Research, Inc.},
+   number	      = {4},
+   month	      = {feb}
 }
 ```
