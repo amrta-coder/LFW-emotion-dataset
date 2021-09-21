@@ -80,14 +80,14 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 
 ```BibTeX
 @Inproceedings{masked-FER,
-  author = {Yang, Bo and Jianming, Wu and Hattori, Gen},
+  author    = {Yang, Bo and Jianming, Wu and Hattori, Gen},
   booktitle = {2021 IEEE International Conference on Image Processing (ICIP)}, 
-  title = {Face Mask Aware Robust Facial Expression Recognition During The Covid-19 Pandemic}, 
-  year = {2021},
-  volume = {},
-  number = {},
-  pages = {240-244},
-  doi = {10.1109/ICIP42928.2021.9506047}
+  title     = {Face Mask Aware Robust Facial Expression Recognition During The Covid-19 Pandemic}, 
+  year      = {2021},
+  volume    = {},
+  number    = {},
+  pages     = {240-244},
+  doi       = {10.1109/ICIP42928.2021.9506047}
 }
 ```
 
@@ -95,11 +95,11 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 
 ```BibTeX
 @Techreport{FLD-FER-masked,
-   author	 = "Bo, Yang and Jianming, Wu and Gen, Hattori",
-   title	 = "Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask",
-   year 	 = "2021",
-   institution	 = "KDDI Research, Inc.",
-   number	 = "4",
-   month	 = "feb"
+   author	     = {Bo, Yang and Jianming, Wu and Gen, Hattori},
+   title	     = {Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask},
+   year 	     = {2021},
+   institution = {KDDI Research, Inc.},
+   number	     = {4},
+   month	     = {feb}
 }
 ```
