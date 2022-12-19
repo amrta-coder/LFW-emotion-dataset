@@ -104,8 +104,7 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 }
 ```
 
-3. [Face-mask-aware Facial Expression Recognition based on Face Parsing and Vision Transformer]
-(https://www.sciencedirect.com/science/article/pii/S0167865522003312)
+3. [Face-mask-aware Facial Expression Recognition based on Face Parsing and Vision Transformer](https://www.sciencedirect.com/science/article/pii/S0167865522003312)
 
 ```BibTeX
 @Article{FMA-FER,
