@@ -103,3 +103,16 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
    month        = {feb}
 }
 ```
+
+```BibTeX
+@Article{FMA-FER,
+   author = {Bo Yang and Jianming Wu and Kazushi Ikeda and Gen Hattori and Masaru Sugano and Yusuke Iwasawa and Yutaka Matsuo},
+   title = {Face-mask-aware Facial Expression Recognition based on Face Parsing and Vision Transformer},
+   journal = {Pattern Recognition Letters},
+   volume = {164},
+   pages = {173-182},
+   year = {2022},
+   issn = {0167-8655},
+   doi = {https://doi.org/10.1016/j.patrec.2022.11.004},
+}
+```
