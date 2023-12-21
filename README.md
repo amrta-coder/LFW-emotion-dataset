@@ -2,36 +2,36 @@
 
 The dataset download link: [LFW-emotion-dataset](https://drive.google.com/file/d/1vM3qHpZ6PcrU9UGwEbnAYl-gmh-rOw2r/view?usp=sharing)
 
-The related paper can be found from here: [Facial Expression Recognition with the advent of face masks](https://www.researchgate.net/publication/346519054_Facial_Expression_Recognition_with_the_advent_of_face_masks)
+The related paper can be found here: [Facial Expression Recognition with the advent of face masks](https://www.researchgate.net/publication/346519054_Facial_Expression_Recognition_with_the_advent_of_face_masks)
 
-The presentation video can be found from here: [Facial Expression Recognition with the advent of face masks - MUM2020 presentation](https://www.youtube.com/watch?v=sWHEfynf5jA)
+The presentation video can be found here: [Facial Expression Recognition with the advent of face masks - MUM2020 presentation](https://www.youtube.com/watch?v=sWHEfynf5jA)
 
 LFW emotion dataset is annotated based on [LFW](http://vis-www.cs.umass.edu/lfw/) (Labeled Faces in the Wild).
 
 This dataset consists of two parts and can be used for the following study:
 
-* **LFW-FER:**  LFW dataset annoteted manually for facial expression recoginition study.
-* **M-LFW_FER:**  LFW dataset processed by automatic wearing face mask method for masked facial expression recoginition study.
+* **LFW-FER:**  LFW dataset annotated manually for facial expression recognition study.
+* **M-LFW_FER:**  LFW dataset processed by automatic wearing face mask method for masked facial expression recognition study.
 
 
 ## License
-**Only the usage of LFW emotion dataset (both LFW-FER and M-LFW-FER) for academic/non-commercial purpose is permitted.**
+**Only the usage of LFW emotion dataset (both LFW-FER and M-LFW-FER) for academic/non-commercial purposes is permitted.**
 
 
 ## LFW-FER dataset
 
-LFW-FER denotes LFW dataset annoteted for facial expression recoginition study.
+LFW-FER denotes LFW dataset annotated for facial expression recognition study.
 
 We manually annotate LFW dataset according to three types of facial expressions (positive, negative, neural), which contain five types of facial orientations (up, left, center, right, down).
 
-Some pictures, difficult to distinguish expression, are removed and 10487 out of 13000 samples are selected from LFW to obtian a LFW-FER dataset finally.
+Some pictures, and difficult-to-distinguish expressions, are removed and 10487 out of 13000 samples are selected from LFW to obtain an LFW-FER dataset.
 
 <div align="center"><img src="./LFW-FER-sample.png" width="480px"></div>
 
 
 ## M-LFW-FER dataset
 
-LFW-FER denotes LFW dataset processed by automatic wearing face mask method for masked facial expression recoginition study.
+LFW-FER denotes LFW dataset processed by the automatic wearing face mask method for masked facial expression recognition study.
 
 <div align="center"><img src="./M-LFW-FER-sample.png" width="480px"></div>
 
@@ -50,7 +50,7 @@ If you want to use LFW-FER or M-LFW-FER dataset in your study, please cite as:
   series = {MUM2020}
 }
 ```
-You can find the paper from: https://dl.acm.org/doi/10.1145/3428361.3432075
+You can find the paper at: https://dl.acm.org/doi/10.1145/3428361.3432075
 
 As LFW is a base work, you are also recommended to cite the following:
 
@@ -72,7 +72,8 @@ Questions and comments can be sent to:
 
 Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 
-## Related works
+
+## Related publications
 
 ### LFW emotion dataset is also used in the following works:
 
@@ -91,12 +92,13 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 }
 ```
 
-2. [Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask](https://www.researchgate.net/publication/349549226_Occlusion_aware_Facial_Landmark_Detection_based_Facial_Expression_Recognition_with_Face_Mask)
+2. [Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask](http://id.nii.ac.jp/1001/00209385/)
 
 ```BibTeX
 @Techreport{FLD-FER-masked,
    author       = {Bo, Yang and Jianming, Wu and Gen, Hattori},
    title        = {Occlusion aware Facial Landmark Detection based Facial Expression Recognition with Face Mask},
+   booktitle    = {IPSJ AVM},
    year         = {2021},
    institution  = {KDDI Research, Inc.},
    number       = {4},
@@ -104,7 +106,21 @@ Jianming Wu(ji-wu@kddi-research.jp) or Bo Yang(bo-yang@kddi-research.jp)
 }
 ```
 
-3. [Face-mask-aware Facial Expression Recognition based on Face Parsing and Vision Transformer](https://www.sciencedirect.com/science/article/pii/S0167865522003312)
+3. [Facial Mask Aware Facial Expression Recognition Approaches and Application](http://id.nii.ac.jp/1001/00211583/)
+```BibTeX
+@Techreport{FLD-FER-applications,
+   author       = {Bo, Yang and Wu, Jianming and Gen, Hattori and Yasuhiro, Takishima},
+   title        = {Facial Mask aware Facial Expression Recognition Approaches and Application},
+   booktitle    = {IPSJ AVM},
+   year         = {2021},
+   institution  = {KDDI Research, Inc.},
+   number       = {4},
+   month        = {June}
+}
+```
+
+
+4. [Face-mask-aware Facial Expression Recognition based on Face Parsing and Vision Transformer](https://www.sciencedirect.com/science/article/pii/S0167865522003312)
 
 ```BibTeX
 @Article{FMA-FER,
